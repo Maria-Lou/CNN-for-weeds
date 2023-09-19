@@ -1,4 +1,4 @@
-###CNN-for-weeds
+CNN-for-weeds
 Weed Detection using Convolutional Neural Network and Transfer Learning implemented in GColaboratory + Keras + Tensorflow
 
 This repository contains the code of a Convolutional Neural Network using the VGG16 network as a basis, as well as the databases with which it was trained. 
