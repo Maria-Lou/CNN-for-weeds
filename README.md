@@ -15,10 +15,9 @@ Tip: Download Anaconda as it will take care of most of the other packages and ea
 ![patchSize_256_olap_50_resFactor_1_yInit_2433_yEnd_2688_xInit_2561_xEnd_2816](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/8bf0bc70-c475-4f51-bb8c-91acc7bbd153)
 
 
-
-
 ### Heatmap
 The predicted values extracted from the trained and tested model are presented in a heat map, so that the probability values of each image (block) are used to reconstruct the complete image. 
 
-![image](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/91024be0-0ba9-42fb-866e-acfa8f4b5753)
+
+
 
