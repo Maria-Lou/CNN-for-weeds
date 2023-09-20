@@ -9,6 +9,7 @@ Tip: Download Anaconda as it will take care of most of the other packages and ea
 ### Dataset
 
 10,375 RGB images of size 256 x 256 were stored in jpg format to form the "MDCP" dataset of which 6058 images were used for training and 4317 for model testing.
+![Vuelo12Jun19_patchSize_256_olap_0_resFactor_1_yInit_3841_yEnd_4096_xInit_4865_xEnd_5120](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/a7c978a1-024c-40da-8975-f9788e7f418e)
 
 ![patchSize_256_olap_50_resFactor_1_yInit_1537_yEnd_1792_xInit_2945_xEnd_3200](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/b5285200-b6d5-4e51-95b7-98f41f7eb0f4)
 ![patchSize_256_olap_50_resFactor_1_yInit_2433_yEnd_2688_xInit_1665_xEnd_1920](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/3b4f2ebe-0f45-4e7c-9236-af81363d8918)
