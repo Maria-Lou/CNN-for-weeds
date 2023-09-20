@@ -11,10 +11,10 @@ Tip: Download Anaconda as it will take care of most of the other packages and ea
 10,375 RGB images of size 256 x 256 were stored in jpg format to form the "MDCP" dataset of which 6058 images were used for training and 4317 for model testing.
 
 ![patchSize_256_olap_50_resFactor_1_yInit_1537_yEnd_1792_xInit_3329_xEnd_3584](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/91ea8ce3-bccf-4806-a5ac-01eafd581c71)
+![patchSize_256_olap_50_resFactor_1_yInit_2177_yEnd_2432_xInit_1409_xEnd_1664](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/9c89248a-2afb-4afd-9ad9-73c4e54833fb)
+![patchSize_256_olap_50_resFactor_1_yInit_2433_yEnd_2688_xInit_2561_xEnd_2816](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/8bf0bc70-c475-4f51-bb8c-91acc7bbd153)
 
-![patchSize_256_olap_50_resFactor_1_yInit_2049_yEnd_2304_xInit_3073_xEnd_3328](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/4f41c1c9-474f-47a3-9921-4c37826b20d7)
 
-![patchSize_256_olap_50_resFactor_1_yInit_2177_yEnd_2432_xInit_1409_xEnd_1664](https://github.com/Maria-Lou/CNN-for-weeds/assets/52510266/cd8d065b-215e-44c7-adf6-2246953ca1c0)
 
 
 ### Heatmap
